@@ -15,9 +15,7 @@ print(r"""                 ____     ___
    \ \   / /  \ \   / /    | |     ||_/ /
     \_\_/_/    \_\_/_/     |_|     |___/""")
 print("\n****************************************************************")
-print("\n* Copyright of David Bombal, 2021                              *")
-print("\n* https://www.davidbombal.com                                  *")
-print("\n* https://www.youtube.com/davidbombal                          *")
+print("\n* Copyright of WPD, 2021                              *")
 print("\n****************************************************************")
 
 while True:
